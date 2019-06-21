@@ -1,0 +1,6 @@
+Step 1 : Install Laravel
+         $ laravel new spatie
+
+Step 2 : Initialise git repository
+         $ git remote add origin https://github.com/developer6969/laravel-spatie.git
+         $ git push -u origin master
